@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm Eugene Steve Soliveres 👋
 
-<!--
-**GeneRy0dan/GeneRy0dan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Engineering Graduate | Customer Operations & Tech Specialist | Python Developer**
 
-Here are some ideas to get you started:
+I bridge the gap between complex front-line customer operations and backend technical automation. With a background in Computer Engineering and extensive experience managing high-volume operations, I build efficient desktop applications, automation tools, and data solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Skills
+
+**Languages & Core Engineering:**
+`C` `C++` `Python` `SQL` `HTML/HTML5` `Visual Basic` `Verilog`
+
+**Frameworks & Libraries:**
+`Tkinter` `Dear PyGui` `MATLAB` `MPLAB X IDE` `MARS MIPS`
+
+**Tools & Development:**
+`Git` `VS Code` `Zendesk` `Asana` `Front` `Google Workspace` `Microsoft Office`
+
+**Design & Multimedia:**
+`Adobe Photoshop` `Canva` `Blender` `Filmora`
+
+---
+
+### 🔭 What I'm Working On
+- 🐍 Developing Python GUI automation applications for task management and operational workflows.
+- 🛠️ Expanding automation tools leveraging Python, Tkinter, and API integrations.
+- 🎨 Creating pop-culture, gaming, and anime-inspired creative designs.
+
+---
+
+### 📊 Experience At A Glance
+- **Customer Operations & Support:** Experienced in managing high-volume chat/email channels, handling tier-2 troubleshooting, and leading operational support teams.
+- **Engineering Foundation:** BS Computer Engineering graduate (UP Diliman) with a strong grounding in data entry, data analysis, and software development.
+
+---
+
+### 📫 Connect With Me
+- **LinkedIn:** [linkedin.com/in/eugene-steve-soliveres-aa5b12321](https://www.linkedin.com/in/eugene-steve-soliveres-aa5b12321/)
+- **Email:** esisoliveres@gmail.com
