@@ -1,6 +1,6 @@
 # Hi there, I'm Eugene Steve Soliveres 👋
 
-**Computer Engineering Graduate | Customer Operations & Tech Specialist | Python Developer**
+**Computer Engineering | Customer Operations & Tech Specialist | Python Developer**
 
 I bridge the gap between complex front-line customer operations and backend technical automation. With a background in Computer Engineering and extensive experience managing high-volume operations, I build efficient desktop applications, automation tools, and data solutions.
 
