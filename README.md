@@ -1,38 +1,39 @@
-Hi there, I'm Eugene Steve Soliveres 👋
+# Eugene Steve Soliveres
 
-Customer Support & Operations | Workflow Automation | Python Developer
+I build web tools and workflow automations for support and operations teams.
 
-I work in front-line customer support and operations, and build the automation tools that make that work faster — desktop apps, API integrations, and internal dashboards that cut down manual, repetitive tasks. Background in Computer Engineering (BS, UP Diliman).
+My background is in customer support, team operations, and Computer Engineering, so most of the tools I work on come from problems I have encountered in actual day-to-day workflows. I tend to focus on reducing repetitive work, improving handoffs between systems, and making internal tools easier to use.
 
-🛠️ Tech Stack & Skills
+## Current work
 
-Languages & Core Engineering: Python C C++ SQL HTML/HTML5 Visual Basic Verilog
+I currently spend most of my development time on internal web tools, email automation, support workflow automation, and small integrations between services.
 
-Frameworks & Libraries: Tkinter Dear PyGui MATLAB MPLAB X IDE MARS MIPS
+Some examples include:
 
-Support & Ops Tools: Zendesk Crisp Asana Front Slack Google Workspace Microsoft Office
+- Automated email outreach with sending controls, inbox syncing, reply detection, and bounce monitoring
+- Gmail-to-Slack alerts for messages that do not reach the normal CRM workflow
+- Support workflow tools for reviewing, organizing, and acting on operational data
+- This portfolio and its custom Cloudflare-based live chat system
 
-Dev Tools: Git GitHub VS Code Cloudflare Node.js Google Cloud Platform (GCP)
+## Tools I use
 
-Design & Multimedia: Adobe Photoshop Canva Blender Filmora
+JavaScript, Node.js, HTML, CSS, Python, SQL, Git, GitHub, Cloudflare, webhooks, Slack, and Google Workspace.
 
-🔭 What I'm Working On
-🐍 Building Python GUI automation tools (Dear PyGui) for support workflows and task management.
-🛠️ Expanding automation tools with Python and API integrations.
-🎨 Creating pop-culture, gaming, and anime-inspired creative designs on the side.
+I also work with support and operations platforms such as Crisp, Front, and Asana.
 
-📊 Experience At A Glance
-Customer Support & Operations: Customer Service Representative at Undetectable AI (Apr 2025–present); prior roles at Mindy Support and Alorica (2018–2025) handling chat, email, and voice support, account troubleshooting, and billing.
-Automation & Tooling: Built internal Python/Dear PyGui desktop tooling to support day-to-day support operations.
-Engineering Foundation: BS Computer Engineering, University of the Philippines Diliman.
+## Selected projects
 
-📜 Certifications
-Jumpstart by Zapier
-Claude Academy: Claude 101 (Anthropic)
-AEO Fundamentals (HubSpot Academy)
-Free WordPress Website Development (Coursera Project Network)
-EF SET English Certificate (C1)
+### local-email-tool
+Email outreach and inbox tooling built around real support and lead-generation workflows.
 
-📫 Connect With Me
-LinkedIn: linkedin.com/in/eugene-steve-soliveres-aa5b12321
-Email: esisoliveres@gmail.com
+### Portfolio
+My personal portfolio, built with React and Vite, with a custom Cloudflare Worker and realtime portfolio inbox.
+
+### qq-email-alerts
+A Gmail monitoring workflow that sends Slack alerts for incoming `@qq.com` messages that are not reaching our normal CRM channel.
+
+## Links
+
+[Portfolio](YOUR_PORTFOLIO_URL)  
+[LinkedIn](https://www.linkedin.com/in/eugene-steve-soliveres-aa5b12321/)  
+[Email](mailto:esisoliveres@gmail.com)
